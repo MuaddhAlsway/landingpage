@@ -1,1 +1,3 @@
 export default function HeroSection({t}){return <section className="hero" id="top"><div className="orb orb-one"/><div className="orb orb-two"/><div className="eyebrow reveal">{t.eyebrow} <span>●</span></div><h1 className="hero-title">{t.hero.map((x,i)=><span key={x} className={i===1?'accent hero-line':'hero-line'}>{x}<br/></span>)}</h1><div className="hero-bottom reveal"><p>{t.desc}</p><a className="button magnetic" href="#services">{t.explore} <span>↓</span></a></div><div className="grid-mark reveal">[ 24.7136° N / 46.6753° E ]<br/>SYSTEMS / INTERFACES / IMPACT</div></section>}
+
+

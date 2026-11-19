@@ -17,3 +17,7 @@ main{background:#1e223d;color:#e6d5b7;min-height:100vh}.nav{display:flex;align-i
 .banner-ar{direction:ltr;text-align:left}.banner-ar .arabic-copy{direction:rtl;text-align:left;margin-right:auto;margin-left:0}.banner-en{direction:ltr;text-align:left}.banner-en .english-copy{right:auto;left:5vw;text-align:left}
 
 
+
+/* spatial browsing / touch surface */.hero-title{position:relative;z-index:1}}
+
+
