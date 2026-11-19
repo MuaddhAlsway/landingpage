@@ -1,0 +1,1 @@
+export default function Contact(){return <section className="contact" id="contact"><p className="section-label">03 / START A PROJECT</p><h2>Have an ambitious idea?<br/><span>Let’s engineer it.</span></h2><a className="button light" href="mailto:hello@example.com">Get in touch <span>↗</span></a></section>}

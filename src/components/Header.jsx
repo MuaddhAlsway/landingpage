@@ -1,0 +1,1 @@
+export default function Header(){return <nav className="nav"><a className="wordmark" href="#top">INDEPENDENT<br/>FULL-STACK<br/>DEVELOPER</a><div className="nav-links"><a href="#services">Services</a><a href="#about">About</a><a href="#contact">Contact</a></div><a className="nav-cta" href="#contact">Start a project <span>↗</span></a></nav>}

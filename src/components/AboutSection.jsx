@@ -1,0 +1,1 @@
+export default function AboutSection({t}){return <section className="intro reveal-section" id="about"><p className="section-label">{t.aboutLabel}</p><div><h2>{t.aboutTitle[0]}<br/><span>{t.aboutTitle[1]}</span></h2><p className="intro-copy">{t.aboutText}</p></div></section>}
