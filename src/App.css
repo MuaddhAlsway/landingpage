@@ -24,3 +24,5 @@ main{background:#1e223d;color:#e6d5b7;min-height:100vh}.nav{display:flex;align-i
 
 
 main[dir=rtl] .hero-line:last-child{margin-top:.18em}
+
+main[dir=rtl] .hero-line:nth-child(2){margin-top:.12em}
